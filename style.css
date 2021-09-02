@@ -1,0 +1,115 @@
+#soustitre
+{
+	color: white;
+}
+
+#titre
+{
+	display: flex;
+	justify-content: space-between;
+	color: white;
+}
+
+#écriture
+{
+	text-align: center;
+	color: white;
+	font-family: Arial,Helvetica, sans-serif ;
+}
+
+#plussurmoi   
+{
+	width: 7%;
+	border: solid purple;
+	text-align: center;
+	background: purple;
+	color: white;
+    margin: 1px 47% 1px;
+}
+
+body
+{
+	background: dimgray ;
+}
+
+#couleurnom
+{
+	color: purple;
+}
+
+#div
+{
+	color: purple;
+	border: 1px solid white;
+	text-align: center;
+	width: 100%;
+	height: 100%;
+	background: white;
+}
+
+#div3
+{
+    flex-wrap: no-wrap;
+    color: black;
+    justify-content: space-between;
+    display: flex;
+}
+
+#div2
+{
+	color: black;
+}
+
+#Contact
+{
+	color: purple;
+	text-align: center;
+	font-family: Arial,Helvetica, sans-serif ;
+}
+
+#contacter
+{
+	color: white;
+	margin: 1px 40% 1px;
+}
+
+#Envoyez
+{   
+	width: 100%; 
+	border: 1px double purple; 
+	text-align: center;
+    background: purple; 
+}
+
+h2
+{
+	color: white;
+}
+
+#text
+{
+	color: purple;
+	border: 1px solid white;
+	background: white;
+	text-align: center;
+	width: 100%;
+}
+
+h4
+{
+	color: white;
+}
+
+#textplus
+{
+	color: white;
+}
+
+#texttitre
+{
+	color: purple;
+	text-align: center;
+}
+
+
+
